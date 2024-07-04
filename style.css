@@ -1,0 +1,26 @@
+.card{
+    text-align: center;
+    width: 300px;
+    height: 400px;
+    border-radius: 10px;
+    background-color: aliceblue;
+    padding: 30px;
+}
+
+.card img{
+    
+    border-radius: 100%;
+    width: 100px;
+    height: 100px;
+    margin: 50px, 0px;
+ 
+}
+.btn{
+    padding: 12px, 80px;
+    text-align: center;
+    background-color: blue;
+    border: none;
+    color: white;
+    border-radius: 10px;
+    cursor: pointer;
+}
